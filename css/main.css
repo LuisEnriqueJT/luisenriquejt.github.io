@@ -1,3 +1,9 @@
 body{
     background-color: rgb(88, 150, 162);
 }
+
+.fija{
+    height: 100px;
+    background-color: red;
+    width: 100px;
+}
