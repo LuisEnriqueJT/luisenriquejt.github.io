@@ -2,8 +2,11 @@ body{
     background-color: rgb(88, 150, 162);
 }
 
-.fija{
-    height: 100px;
+div{
     background-color: red;
-    width: 100px;
+}
+
+.fija{
+    height: 5cm;
+    width: 5cm;
 }
